@@ -2,7 +2,7 @@
 
 //Constantes del juego
 const SIZE = 5;
-const candidatos = [1,2,3,4,5,6,7,8,9,0,"a","b"];
+const candidatos = [1,2,3,4,5,6,7,8,9,0];
 const TRY = 6;
 
 //Variables del juego
